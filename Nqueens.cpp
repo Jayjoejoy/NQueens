@@ -178,7 +178,7 @@ void solveNqueen(int n){
 int main()
 
 {   
-	// test when n equals 4, 5, and 8.
+	// test when n equals 4, 5, 6, and 8.
 	solveNqueen(4);
 	solveNqueen(5);
 	solveNqueen(6);
