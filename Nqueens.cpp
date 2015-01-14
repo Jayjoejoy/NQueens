@@ -1,6 +1,6 @@
 //N Queens Problem 
 
-//@Author: Zhe Wang, N19544698
+//@Author: Joe@https://github.com/Jayjoejoy
 
 //version: 1.6
 
